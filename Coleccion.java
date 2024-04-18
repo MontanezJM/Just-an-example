@@ -8,7 +8,7 @@ public class Coleccion {
     //Constructor de clase
 
     public Coleccion(){
-
+        this.Coleccion = new ArrayList<Punto>();
     }
 
     //Metodos de clase
